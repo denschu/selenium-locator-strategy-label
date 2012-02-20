@@ -11,7 +11,7 @@ This repository hosts the relevant files for the blog posts about Locator Strate
 * Selenium Core extensions: user-extensions.js
 * Selenium IDE extensions: user-extensions-ide.js
 
-For complete installation instructions have a look at [my blog post](http://blog.codecentric.de).
+For complete installation instructions have a look at [my blog post](http://blog.codecentric.de/en/2012/02/creating-custom-locator-strategy-for-selenium/).
 
 
 ## Useful Ressources
