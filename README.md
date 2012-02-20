@@ -16,6 +16,7 @@ For complete installation instructions have a look at [my blog post](http://blog
 
 ## Useful Ressources
 [Locating Elements by Label Text](http://wiki.openqa.org/display/SEL/locateByLabelText)
-[Blog about this Plugin](http://blog.codecentric.de)
+
+[Blog about this Plugin](http://blog.codecentric.de/en/2012/02/creating-custom-locator-strategy-for-selenium/)
 
 
