@@ -19,4 +19,5 @@ For complete installation instructions have a look at [my blog post](http://blog
 
 [Blog about this Plugin](http://blog.codecentric.de/en/2012/02/creating-custom-locator-strategy-for-selenium/)
 
-
+##coderwall
+[![endorse](http://api.coderwall.com/denschu/endorsecount.png)](http://coderwall.com/denschu)
